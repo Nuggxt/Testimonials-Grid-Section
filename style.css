@@ -8,6 +8,15 @@ body {
     font-size: 13px;
 }
 
+.container-main {
+    height: 100vh;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 150px;
+    height: 650px;
+    border: 1px solid blue;
+}
+
 .customer-1 {
     background-color: hsl(263, 55%, 52%);
     color: azure;
